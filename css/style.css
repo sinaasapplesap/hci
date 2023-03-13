@@ -106,3 +106,13 @@ color: #161616;
     background: #1D61F6;
     transition: 500ms ease;
 }
+
+/* User type */
+
+.section-usertype {
+    padding-top: 20%; 
+}
+
+.btn-usertype {
+    display: block;
+}
